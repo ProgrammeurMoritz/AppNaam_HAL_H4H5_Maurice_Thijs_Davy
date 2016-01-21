@@ -1,0 +1,20 @@
+<HTML>
+<head></head>
+<body>
+
+
+<script>
+var Product1 = prompt("Wat is het eerste product dat je gebruikt?");
+var Product2 = prompt("Wat is het tweede product dat je gebruikt?"
+);
+var Product3 = prompt("Wat is het derde product dat je gebruikt?");
+
+var aantalMinuten = prompt("Hoelang ga je deze producten mixen?");
+
+alert("Mix" + " " + Product1 + "," + " " + Product2 + " en" + " " + Product3 + " " + "gedurende" + + " " +  " " + aantalMinuten + " " + "minuten.");
+</script>
+
+
+
+</body>
+</HTML>
