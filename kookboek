@@ -9,6 +9,11 @@ var Product2 = prompt("Wat is het tweede product dat je gebruikt?"
 );
 var Product3 = prompt("Wat is het derde product dat je gebruikt?");
 
+
+	confirm (Product1+","+"weet u zeker dat dit het eerste ingredient is")
+	confirm (Product2 +","+"weet u zeker dat dit het tweede ingredient is")
+	confirm (Product3 +","+"weet u zeker dat dit het derde ingredient is")
+	
 var aantalMinuten = prompt("Hoelang ga je deze producten mixen?");
 
 alert("Mix" + " " + Product1 + "," + " " + Product2 + " en" + " " + Product3 + " " + "gedurende" + + " " +  " " + aantalMinuten + " " + "minuten.");
